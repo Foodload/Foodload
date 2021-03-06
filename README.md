@@ -21,6 +21,7 @@ The WebSocket server was built in Node.js with Express and SocketIO. This compon
 ## Summary of Technologies
 * Firebase
 * Flutter
+* Heroku
 * Node.js and Express
 * PostgreSQL
 * Redis
